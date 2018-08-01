@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Volumes/Codelab Work/Projects/Backup/unaizah/BravoMobile/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Volumes/Codelab Work/Projects/Backup/unaizah/BravoMobile/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Volumes/Codelab Work/Projects/Backup/unaizah/BravoMobile/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/res/merged/release/xml/syncadapter.xml",
+        "source": "/Volumes/Codelab Work/Projects/Backup/unaizah/BravoMobile/node_modules/react-native-mauron85-background-geolocation/android/lib/src/main/res/xml/syncadapter.xml"
+    },
+    {
+        "merged": "/Volumes/Codelab Work/Projects/Backup/unaizah/BravoMobile/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/res/merged/release/xml/authenticator.xml",
+        "source": "/Volumes/Codelab Work/Projects/Backup/unaizah/BravoMobile/node_modules/react-native-mauron85-background-geolocation/android/lib/src/main/res/xml/authenticator.xml"
+    }
+]
